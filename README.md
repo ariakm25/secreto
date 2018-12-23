@@ -1,3 +1,4 @@
+npm install
 
 Setting Database = ./config/db.js
 
